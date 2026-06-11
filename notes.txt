@@ -2,3 +2,4 @@ my first git file
 learning git today
 I am learning git
 git is intresting
+Third line after staging
